@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshjht&label=Profile%20views&color=0e75b6&style=flat" alt="adarshjht" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshjht" alt="adarshjht" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about *frontend*
 
@@ -30,3 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshjht&show_icons=true&locale=en" alt="adarshjht" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshjht&" alt="adarshjht" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshjht&label=Profile%20views&color=0e75b6&style=flat" alt="adarshjht" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshjht" alt="adarshjht" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
